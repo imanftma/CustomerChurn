@@ -5,6 +5,7 @@ Businesses grow with customers. Retaining customers that are already acquired is
 **OUR BUSINESS OBJECTIVE:**</br>
 •	Enable the retention team to have the list of likely churn customers from the churn model created with the help of churn predictive analysis
 •	Reduce customer churn by proactively contacting customers likely to churn
+</br>
 **REVIEW OF DATA SOURCE** </br>
 Our data source is a csv file.
 The data has 7043 rows and 21 columns. The target variable is “Churn” which tells us whether a customer was churned or retained. Rest of the variables have characteristics related to that customer. Each customer has a unique ID.
